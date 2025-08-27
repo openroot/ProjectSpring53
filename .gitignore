@@ -400,10 +400,10 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-# ProjectSpring53 - contract
-/17605236456206027416688499730/private/protected/
+# ProjectSpring53 - Contract
+/17605236456206027416688499730/--ProjectSpring53/1_02025-08-27_09-14-29_05-30_/private/protected/
 
-# ProjectSpring53 - structure
+# ProjectSpring53 - Structure
 /suchLayout46/
 /expressCard39/
 /loadPeriod41/
